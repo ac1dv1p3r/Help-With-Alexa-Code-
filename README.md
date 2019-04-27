@@ -1,4 +1,5 @@
 # Please-Help-With-Alexa-Code-
+if can fix please email me here austinfinlan@gmail.com
 says The skill's audio content URL(s) are not accessible. Please ensure the audio content URL(s) provided in the skill are accessible at all times. even though has been acive here and on win amp had to use a diffrent link since the other link needed to be https witch was done using bit.ly
 for some reason eventhough works in beta link here
 https://skills-store.amazon.com/deeplink/tvt/4557b7d7fbd3992a8e061d49cc8b67c526b46bd7136f86b5847ee29d6cdb7c82249706bd419e7b09fc60e173a62fef7f01e8063d3ba79ed1c3d2e9128db266183ad1513979f278165ecd6031e8c24cb02ec18e2135669fb8190a5ae3c5ec94b9a3c650ce44158723ea165da6f9632d59
